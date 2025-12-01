@@ -16,7 +16,7 @@
   </p>
 
   <p>
-    Most of my open-source work centres on Structural Engineering: building practical utilities and native toolchains that people love to use. I also contribute to the Institution of Structural Engineers (IStructE) and serve as Vice-Chair of the Digital Workflows & Computational Design Panel (DWCD). In my day job, I manage a portfolio of internal software products at WSP where I apply the same principles at scale.
+    Most of my open-source work centres on Structural Engineering: building practical utilities and native toolchains that people love to use. I also contribute to the   <a href="https://www.istructe.org" target="_blank" rel="noopener noreferrer"> Institution of Structural Engineers (IStructE)</a>. and serve as Vice-Chair of the  <a href="https://www.istructe.org/get-involved/panels-and-committees/digital-workflows-computational-design/" target="_blank" rel="noopener noreferrer">Digital Workflows & Computational Design Panel (DWCD)</a>. In my day job, I manage a portfolio of internal software products at WSP where I apply the same principles at scale.
   </p>
 
   <p>
