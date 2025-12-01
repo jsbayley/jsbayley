@@ -9,3 +9,9 @@
   [![LinkedIn: Follow](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/jsbayley)
   [![GitHub: Sponsors](https://img.shields.io/badge/GitHub-Sponsors-yellow)](https://www.github.com/sponsors/jamesbayley)
 </div>
+
+<div align="justify">
+  <p>
+    I work at the intersection of engineering, design psychology, and craft. I care about quality, simplicity, and tools that feel good to use. I believe software is a form of craftsmanship, and that even small, well-made tools can transform how people think, feel, and perform. My philosophy is simple: build with intention, reduce friction, respect human attention, and bring clarity to complex systems. My goal is always the same: create calm, minimise noise, and enable deep, meaningful work.
+  </p>
+</div>
