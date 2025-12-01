@@ -12,6 +12,10 @@
 
 <div align="justify">
   <p>
-    I work at the intersection of engineering, design psychology, and craft. I care about quality, simplicity, and tools that feel good to use. I believe software is a form of craftsmanship, and that even small, well-made tools can transform how people think, feel, and perform. My philosophy is simple: build with intention, reduce friction, respect human attention, and bring clarity to complex systems. My goal is always the same: create calm, minimise noise, and enable deep, meaningful work.
+    I work at the intersection of engineering, design psychology, and craft. I care about quality, simplicity, and tools that feel good to use. I believe software is a form of craftsmanship, and that even small, well-made tools can transform how people think, feel, and perform. My philosophy is simple: build with intention, reduce friction, respect human attention, and bring clarity to complex systems. The goal is always the same: create calm, minimise noise, and enable deep, meaningful work. This underpins my broader focus on Engineering Experience.
+  </p>
+
+  <p>
+    Most of my open-source work centres on Structural Engineering: building practical utilities and native toolchains that Engineers love to use. I also contribute to the Institution of Structural Engineers and serve as Vice-Chair of the Digital Workflows & Computational Design Panel. In my day job, I manage a portfolio of internal software products at WSP where I apply the same principles at scale.
   </p>
 </div>
