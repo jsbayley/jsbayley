@@ -7,7 +7,7 @@
   [![Hometown: Birmingham, UK](https://img.shields.io/badge/Hometown-Birmingham%2C%20UK-brightgreen)](https://goo.gl/maps/4FykNzHGVjBEMqPv5)
   
   [![LinkedIn: Follow](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/jsbayley)
-  [![GitHub: Sponsors](https://img.shields.io/badge/GitHub-Sponsors-yellow)](https://www.github.com/sponsors/jamesbayley)
+  [![GitHub: Sponsors](https://img.shields.io/badge/GitHub-Sponsors-yellow)](https://www.github.com/sponsors/jsbayley)
 </div>
 
 <div align="justify">
