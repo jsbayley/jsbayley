@@ -26,7 +26,7 @@
   <p><strong>Currently building:</strong></p>
   <ul>
     <li><a href="https://github.com/jsbayley/gazelle">Gazelle</a> — a fast engine for Structural Engineering.</li>
-    <li>Simple, open-source AEC utilities and workflows</li>
-    <li>A shaping philosophy around crafted, intentional work</li>
+    <li>Other simple, open-source AEC utilities and workflows.</li>
+    <li>An evolving life philosophy around crafted, intentional work.</li>
   </ul>
 </div>
