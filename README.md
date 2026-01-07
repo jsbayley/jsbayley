@@ -20,7 +20,7 @@
   </p>
 
   <p>
-    I write about Engineering Experience, design psychology, and practical wisdom for better work at <a href="https://www.linkedin.com/newsletters/7261809617679052800/" target="_blank">Optimal Engineer</a>. I also publish <a href="https://www.linkedin.com/newsletters/7389619439480053760/" target="_blank">Handmade Technology</a>, a newsletter for AEC Developers exploring craft, code, and the tools shaping the built environment.
+    I write about Engineering Experience, design psychology, and practical wisdom for better work at <a href="https://www.linkedin.com/newsletters/7261809617679052800/" target="_blank">Optimal Engineer</a>. I also publish <a href="https://www.linkedin.com/newsletters/7389619439480053760/" target="_blank">Handmade Technology</a>, a newsletter for AEC Developers exploring craft, code, and the tools shaping the built environment. You can also find me on <a href="https://jsbayley.substack.com" target="_blank">Substack</a> where I write about simplicity, craft, and effort well spent.
   </p>
 
   <p><strong>Currently building:</strong></p>
